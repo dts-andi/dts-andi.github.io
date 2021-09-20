@@ -1,0 +1,15 @@
+h2 {
+  text-align: center;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ffffff;
+}
+
+#about {
+  background-color: #0dacf0;
+}
+
+section {
+  padding-top: 5rem;
+}
